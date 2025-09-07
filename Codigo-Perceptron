@@ -1,4 +1,4 @@
-```python
+```py
 def perceptron_input(inputs, weights, bias):
     """
     Calculate the perceptron input.
